@@ -8,8 +8,6 @@
 
 ScraperAPI 最适合的是需要中大规模抓取亚马逊评论、但不想自己维护代理池和反爬系统的开发者或数据团队。如果你每个月只需要抓几十条评论，用它有点杀鸡用牛刀。
 
-[👉 直达 ScraperAPI 官网查看亚马逊抓取方案与当前可用折扣](https://www.scraperapi.com/?fp_ref=coupons)
-
 ## ScraperAPI 到底是什么
 
 简单说，它是一个 Web Scraping API 服务。你把目标 URL 丢给它的 API 端点，它帮你处理代轮换、浏览器指纹、验证码绕过、请求头伪装这些脏活累活，返回给你干净的 HTML 或 JSON 数据。
@@ -57,12 +55,18 @@ ScraperAPI 最适合的是需要中大规模抓取亚马逊评论、但不想自
 ## 全套餐对比
 
 | 方案名 | API 请求额度 | 并发线程数 | 地理定位 | 结构化数据端点 | 价格（月付） | 适合谁 | 购买链接 |
+
 |-----|-------------|--------|-------------|---------|
-| Free | 5,000 次 | 5✓ | ✓ | $0 | 验证可行性、跑通 demo | [ 免费注册试用 ScraperAPI](https://www.scraperapi.com/signup?fp_ref=coupons) |
-| Hobby | 100,000 次 | 10 | ✓ | $49 | 个人开发者、小规模数据采集 | [ 开通 Hobby 套餐开始抓取](https://www.scraperapi.com/?fp_ref=coupons) |
-| Startup | 1,000,000 次 | 50 | ✓ | $149 | 中小团队、日常竞品监控 | [ 获取 Startup 套餐百万级额度](https://www.scraperapi.com/?fp_ref=coupons) |
-| Business | 3,000,000 次 | 100 | ✓ | $249 | 数据团队、大规模采集任务 | [ 直达 Business 套餐解锁最大并发](https://www.scraperapi.com/?fp_ref=coupons) |
-| Enterprise | 自定义 | 自定义 | ✓ | 联系销售 | 企业级需求、定制 SLA | [ 联系 ScraperAPI 获取企业定制方案](https://www.scraperapi.com/contact-sales?fp_ref=coupons) |
+
+| Free | 5,000 次 | 5✓ | ✓ | $0 | 验证可行性、跑通 demo | |
+
+| Hobby | 100,000 次 | 10 | ✓ | $49 | 个人开发者、小规模数据采集 | |
+
+| Startup | 1,000,000 次 | 50 | ✓ | $149 | 中小团队、日常竞品监控 | |
+
+| Business | 3,000,000 次 | 100 | ✓ | $249 | 数据团队、大规模采集任务 | |
+
+| Enterprise | 自定义 | 自定义 | ✓ | 联系销售 | 企业级需求、定制 SLA | |
 
 年付有折扣，大概能省 20% 左右。我自己用的是 Business 套餐年付方案。
 
@@ -103,8 +107,6 @@ ScraperAPI 用的是它自己的代理池，请求不经过你的 IP。你的亚
 Hobby 套餐的 10 万次请求，对于大多数个人项目来说其实够用一个月了。除非你像我一样需要每天跑几千条，否则没必要直接上 Business。
 
 还有一点：它提供 7 天退款保证。我当时升级 Business 之前专门确认过这一点，虽然最后没用上，但知道有这个兜底心里踏实很多。
-
-[👉 立即注册 ScraperAPI 免费获取 5000 次 API 额度试用](https://www.scraperapi.com/signup?fp_ref=coupons)
 
 ---
 
